@@ -1,1 +1,3 @@
-const messages = ['Squeaky Bum Time','Business end of the season','Could have thrown his hat on that','Off the woodwork!'];
+const messages = ['squeaky Bum Time','business end of the season','relegation looming','off the woodwork'];
+const team = ['Watford','Leicester','Newcastle United','Nottingham Forest','Blyth Spartans'];
+const person = ['their fans','the manager','the owner','the entire club'];
